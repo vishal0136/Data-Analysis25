@@ -15,7 +15,7 @@ The assignment involved solving structured problems to test proficiency in:
 - DataFrame operations: filtering, grouping, merging
 - Handling missing values and basic data cleaning
 
-## 🧠 Key Concepts Applied
+##  Key Concepts Applied
 
 - Reading and writing CSV files using Pandas  
 - Data slicing and indexing  
@@ -23,7 +23,7 @@ The assignment involved solving structured problems to test proficiency in:
 - NumPy arrays and broadcasting  
 - Data exploration and basic cleaning techniques
 
-## ✅ Status
+##  Status
 
 ✔️ Submitted as part of the program's Week 1 requirement  
 🗓️ Completed in July 2025
